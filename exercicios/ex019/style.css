@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: love;
+    src: url(fonte/Mf\ Love\ Song.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+ font-family: Arial, Helvetica, sans-serif;
+ text-align: justify;
+ 
+}
+
+h1{
+    font-family:'love', Times, serif;
+ color:#044040;
+ text-align: center;
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.basico{
+ color:#8C1F28 ;
+}
+
+.intermediario{
+    color:#591C21 ;
+}
+
+.avançado{
+color:#D92525 ;
+}
